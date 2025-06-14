@@ -1,6 +1,6 @@
-## Hi I'm Stefy Thomas
+## 
 
-# 💫 About Me:
+# 💫Hi I'm Stefy Thomas:
 🎓 3rd-year Computer Science student at LBS Institute of Technology for Women<br>👩‍💻Exploring full-stack development and AI<br>💡 Figuring things out by building small projects<br>🌱 Open to learning and improving step by step
 
 
